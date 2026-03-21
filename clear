@@ -1,0 +1,18 @@
+[1mdiff --cc contact-us.html[m
+[1mindex d97927f,aaca520..0000000[m
+[1m--- a/contact-us.html[m
+[1m+++ b/contact-us.html[m
+[36m@@@ -6,10 -6,10 +6,10 @@@[m
+      <title>Latihan git</title>[m
+  </head>[m
+  <body>[m
+[31m -    <header>disini adalah header</header>[m
+[32m +    <header>disini adalah heades </header>[m
+      <h1>PT maju mundur</h1>[m
+      <div>ini adalah halaman contact berisi form dan maps.. </div>[m
+[31m-     <div>contoh perubahan baris 12</div>[m
+[32m+     <form action=""></form>[m
+      <footer>ini adalah footer</footer> [m
+  </body>[m
+[31m- </html>[m
+[32m+ </html>[m
